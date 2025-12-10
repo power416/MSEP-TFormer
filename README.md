@@ -1,8 +1,8 @@
 # MSEP-TFormer: A Multi-task Source Estimation Parameter Transformer Network for Earthquake Monitoring
 
 <div align="center">
-    <a href='http://gciigroup.cn/' target='_blank'>Xingguo Huang<sup>1</sup></a>&emsp;
-    <a href='https://github.com/power416/' target='_blank'>Yupeng Zhang<sup>1, *</sup></a>&emsp;
+    <a href='http://gciigroup.cn/' target='_blank'>Xingguo Huang<sup>1, *</sup></a>&emsp;
+    <a href='https://github.com/power416/' target='_blank'>Yupeng Zhang<sup>1</sup></a>&emsp;
 </div>
 </br>
 <div align="center">
@@ -19,6 +19,7 @@
 * Run `python test.py`.
 
 ### ✨ We will subsequently release additional code.
+
 
 
 
